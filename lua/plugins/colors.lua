@@ -3,9 +3,9 @@ local function enable_transparency()
 end
 return {
     {
-	"folke/tokyonight.nvim",
+	"miikanissi/modus-themes.nvim", priority = 1000,
 	config = function()
-	    vim.cmd[[colorscheme tokyonight-moon]]
+	    vim.cmd[[colorscheme modus_operandi]]
 	end
     },
     {
