@@ -15,9 +15,12 @@ return {
 		"rust",
 		"c",
 		"markdown",
-		"c++",
 		"java",
 		"kotlin",
+		"html",
+		"css",
+		"twig",
+		"javascript",
 	    },
 	    auto_install = false,
 	})
