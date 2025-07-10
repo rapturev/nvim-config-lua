@@ -20,6 +20,7 @@ return {
 		"html",
 		"css",
 		"twig",
+		"blade",
 		"javascript",
 	    },
 	    auto_install = false,
